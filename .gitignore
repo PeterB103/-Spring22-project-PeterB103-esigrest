@@ -1,0 +1,20 @@
+# Git will not track these file types
+*.a
+*.bin
+*.d
+*.DS_Store
+>>>>>>> e6635459d38336aef049d9af68b1123b5688a64b
+*.elf
+*.exe
+*.list
+*.o
+
+# no track editor/os leftovers
+*.DS_Store
+[._]*.sw[a-p]
+.vscode/*
+*~
+.*~
+\#*\#
+.\#*
+
